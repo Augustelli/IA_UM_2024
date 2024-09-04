@@ -1,0 +1,6 @@
+.gitgnore
+.venv
+data
+main
+__pycache__
+.idea/

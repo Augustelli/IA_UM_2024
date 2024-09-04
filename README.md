@@ -1,0 +1,4 @@
+# Inteligencia Artificial 
+
+
+Mancuso Augusto 
